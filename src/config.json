@@ -1,0 +1,6 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"connectionUrl": "mongodb+srv://admin:AMR6C5wqSBjkYRB2@cluster0-64ex5.gcp.mongodb.net/test?retryWrites=true"
+}
